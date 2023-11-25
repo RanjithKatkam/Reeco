@@ -51,6 +51,7 @@
 .print {
     color: #1e633f;
     font-size: 25px;
+    cursor: pointer;
 }
 
 .products-container {
