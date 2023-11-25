@@ -1,0 +1,58 @@
+.navbar-main-container {
+    height: 5.5%;
+    width: 100%;
+    background-color: #1e633f;
+    padding: 1px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-sub-container {
+    display: flex;
+    align-items: center;
+    width: 85%;
+}
+
+.reeco {
+    font-family: cursive;
+    font-size: 34px;
+    width: 200px;
+    color: White;
+    cursor: pointer;
+}
+
+.nav-heading{
+    font-family: 'Lucida Sans';
+    font-size: 17px;
+    width: 140px;
+    color: rgb(202, 205, 209);
+    font-weight: 400;
+    cursor: pointer;
+
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    margin-left: auto;
+    cursor: pointer;
+
+}
+
+.user {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    color: White;
+    font-weight: 400;
+    margin-left: 40px;
+    cursor: pointer;
+
+}
+
+.arrow {
+    color: white;
+    font-size: 20px;
+    margin-left: 2px;
+    cursor: pointer;
+
+}

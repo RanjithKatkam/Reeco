@@ -1,0 +1,106 @@
+.list-container {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1.5px solid grey;
+    background-color: rgb(237, 233, 233);
+}
+
+.img-productName {
+    display: flex;
+    align-items: center;
+    width: 31.8%;
+    height: 100%;
+    background-color: white;
+}
+
+.product-img {
+    height: 50px;
+    margin: 0px 15px 0px 10px;
+}
+
+.product-name {
+    width: 70%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(118, 115, 115);
+}
+
+.pro21 {
+    width: 12%;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(118, 115, 115);
+    background-color: white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.cross {
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+.quantity-number {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(85, 84, 84);
+}
+
+.status-container {
+    height: 100%;
+    width: 20.2%;
+    display: flex;
+    align-items: center;
+}
+
+.product-status-green {
+    width: 50%;
+    background-color: rgb(76, 193, 76);
+    height: 30px;
+    border-radius: 10px;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 500;
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+.product-status-red {
+    width: 50%;
+    background-color: rgb(147, 28, 4);
+    height: 30px;
+    border-radius: 10px;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 500;
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+
+.status-buttons {
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    font-size: 22px;
+}
+
+.extra {
+    margin-left: auto;
+}

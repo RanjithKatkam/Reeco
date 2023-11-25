@@ -1,0 +1,54 @@
+.shipping-main-container {
+    border: 1.5px solid rgb(175, 172, 172);
+    border-radius: 6px;
+    height: 6.5%;
+    width: 85%;
+    margin: auto;
+    margin-top: 27px;
+    margin-bottom: 37px;
+    display: flex;
+    background-color: white;
+}
+
+.d2 {
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 25px;
+    border-right: 1px solid rgb(175, 172, 172);
+    border-radius: 7px;
+    box-shadow: 3.5px 0.5px 5.5px 0.5px #c0b9b9;
+}
+
+.d21 {
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 25px;
+    box-shadow: 3.5px 0.5px 5.5px 0.5px #c0b9b9;
+    border-radius: 6px;
+}
+
+.p1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    color: grey;
+    margin-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.p2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    color: black;
+    margin-top: 5px;
+}
+
+.grapes-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    width: 80%;
+}
