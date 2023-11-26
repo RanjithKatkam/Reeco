@@ -14,15 +14,15 @@
 }
 
 .reeco {
-    font-family: cursive;
-    font-size: 34px;
+    font-family: "Lobster";
+    font-size: 40px;
     width: 200px;
     color: White;
     cursor: pointer;
 }
 
 .nav-heading{
-    font-family: 'Lucida Sans';
+    font-family: 'Playfair Display';
     font-size: 17px;
     width: 140px;
     color: rgb(202, 205, 209);
@@ -40,7 +40,7 @@
 }
 
 .user {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Bree serif";
     font-size: 17px;
     color: White;
     font-weight: 400;

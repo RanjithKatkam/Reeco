@@ -32,7 +32,7 @@
 }
 
 .p1{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: "Roboto";
     font-weight: 800;
     color: grey;
     margin-bottom: 5px;
@@ -40,7 +40,7 @@
 }
 
 .p2 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: "Source Sans Pro";
     font-weight: 800;
     color: black;
     margin-top: 5px;

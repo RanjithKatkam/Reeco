@@ -32,8 +32,8 @@ class ItemCard extends Component {
                     {
                         status !== "" ? <p className={status === "Approved" ? "product-status-green" : "product-status-red"}>{status}</p> : null
                     }
-                    <button onClick={this.onClickRightMark} className="status-buttons extra"><BsCheck2 /></button>
-                    <button onClick={this.onClickCrossMark} className="status-buttons"><RxCross2 /></button>
+                    <button onClick={this.onClickRightMark} className={ status === "Approved" ? "green status-buttons extra" : "status-buttons extra"}><BsCheck2 size={status === "Approved" ? 28 : null } /></button>
+                    <button onClick={this.onClickCrossMark} className={ status === "Missing" ? "red status-buttons" : "status-buttons"}><RxCross2 size={status === "Missing" ? 28 : null } /></button>
                 </div>
             </div>
         )

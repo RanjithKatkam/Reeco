@@ -98,9 +98,18 @@
     outline: none;
     cursor: pointer;
     border: none;
-    font-size: 22px;
+    font-size: 21px;
 }
 
 .extra {
     margin-left: auto;
+}
+
+
+.green {
+    color: rgb(76, 193, 76);
+}
+
+.red {
+    color: rgb(147, 28, 4);
 }
